@@ -3,4 +3,5 @@ link => https://www.udemy.com/course/the-complete-junior-to-senior-web-developer
 
 ## This is just my exercise from that site.
     * 06 Testing
-    * 07_typescript
+    * 07 Typescript
+    * 08 SSR With Next Js
